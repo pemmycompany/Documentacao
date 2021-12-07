@@ -21,7 +21,9 @@ Entrega
 ------
 ## Colaboradores:
 Elias Lima Rodrigues RA: 321119584 - https://github.com/Elias-Lima-code
+
 Mathaus Puff de Souza RA: 321127417 - https://github.com/mathauspuffdesouza
+
 Pedro Henrique RA: 321114223 - https://github.com/Pedro-Barros77
 ------
 ## Backlog do Produto 
