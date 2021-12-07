@@ -2,9 +2,7 @@
 ## Objetivos do sistema:
 O sistema tem como objetivo permitir o usuário a competir com outro jogador, em um jogo de perguntas e respostas em turnos alternados. Os usuários serão cadastrados previamente, informando seu nome, apelido que aparecerá no jogo, telefone e email (dados fictícios). Após o cadastro, cada jogador selecionará um personagem e serão direcionados ao jogo. O jogador perde pontos de vida conforme o tempo passa ao responder uma questão e caso a resposta esteja errada. O jogo é encerrado se uma das barras de vida chegar a zero ou acabarem as perguntas. Vence o jogador que tiver mais pontos de vida.
 ------
-## Definições e siglas:
-
-No nível importância no kanban o número 1 representa o nível mais importante. 
+## Definições e siglas: No nível importância no kanban o número 1 representa o nível mais importante. 
 ------
 ## Cronograma previsto:
 Foi dado em média 30 dias para fazer o projeto com data de início 08/11/2021, data de entrega da documentação até dia 07/12/2021 e data da entrega do programa dia 09/12/2021.
